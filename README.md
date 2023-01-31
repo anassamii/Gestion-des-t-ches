@@ -28,15 +28,15 @@ Tri / Tâches valides:
 
 
 Filtrage / Numéro:
-![numero](https://user-images.githubusercontent.com/86629025/215860618-2fa44352-b894-4198-813d-a6122c3367a4.png)
+![numero](https://user-images.githubusercontent.com/86629025/215863722-852a40aa-f58a-4536-8294-1cd41b501058.png)
 
 
 Filtrage / Titre(s):
-![titre](https://user-images.githubusercontent.com/86629025/215860737-af0957ad-a36e-4942-acc0-cb3c63da36c4.png)
+![titre](https://user-images.githubusercontent.com/86629025/215863753-ef8a9f34-f67a-45f6-bd2b-5ef8c40b7c5a.png)
 
 
 Filtrage / Description(s):
-![description](https://user-images.githubusercontent.com/86629025/215860781-e0046ca7-00df-4a83-be91-e1e69f67f5c1.png)
+![description](https://user-images.githubusercontent.com/86629025/215863775-5b8b5feb-d90a-4467-aa50-8ee5c8e64aa7.png)
 
 
 Création ou Modification d'une tâche:
