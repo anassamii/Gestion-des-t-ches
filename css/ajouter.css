@@ -1,0 +1,90 @@
+#projects {
+  padding-top: 0px;
+}
+#projects-content {
+  padding: 80px 60px;
+}
+
+#projects input {
+  border-radius: 0px;
+  padding-left: 15px;
+  font-size: 13px;
+  color: #aaa;
+  background-color: #f4f4f4;
+  border: 1px solid #eee;
+  outline: none;
+  box-shadow: none;
+  line-height: 40px;
+  height: 40px;
+  width: 100%;
+  margin-bottom: 25px;
+}
+#projects textarea {
+  border-radius: 0px;
+  padding-left: 15px;
+  padding-top: 10px;
+  font-size: 13px;
+  color: #aaa;
+  background-color: #f4f4f4;
+  border: 1px solid #eee;
+  outline: none;
+  box-shadow: none;
+  height: 200px;
+  max-height: 250px;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 25px;
+}
+
+#projects button {
+  font-size: 13px;
+  border-radius: 0px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: capitalize;
+  background-color: #45489a;
+  display: inline-block;
+  height: 44px;
+  line-height: 24px;
+  outline: none;
+  box-shadow: none;
+  width: 100%;
+  letter-spacing: 0.25px;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+#projects button:hover {
+  color: #232323;
+  background-color: #f4f4f4;
+}
+
+#fs{
+	border: 2px solid black;
+	padding: 5%;
+	margin: 5%;
+}
+
+legend {
+    background-color:#45489a;
+}
+
+#serie, #departement, #formation, #annee, #motivation, #communication, #culture, #accomplie {	
+	border-radius: 0px;
+    padding-left: 15px;
+    font-size: 13px;
+    color: #aaa;
+    background-color: #f4f4f4;
+    border: 1px solid #eee;
+    outline: none;
+    box-shadow: none;
+    line-height: 40px;
+    height: 40px;
+    width: 100%;
+    margin-bottom: 25px;
+	display: inline-block;
+}
+
+
+	  
+	 	  
