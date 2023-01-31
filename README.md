@@ -32,5 +32,6 @@ Filtrage / Titre(s):
 Filtrage / Description(s):
 ![description](https://user-images.githubusercontent.com/86629025/215860781-e0046ca7-00df-4a83-be91-e1e69f67f5c1.png)
 
-Création d'une tâche:
-![Ajout d'une tâche](https://user-images.githubusercontent.com/86629025/215860899-01619ba4-37aa-4d6c-a4aa-23eb74cfb3a8.png)
+Création ou Modification d'une tâche:
+![Création-modification](https://user-images.githubusercontent.com/86629025/215861398-17c9f904-54e2-4dcd-8982-b192b8e0cf00.png)
+
